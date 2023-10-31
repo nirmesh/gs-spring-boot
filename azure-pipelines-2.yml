@@ -7,6 +7,7 @@ trigger:
 - master
 
 pool:
+  name: default
   vmImage: W10B8KF1N3
 
 steps:
