@@ -6,9 +6,6 @@
 trigger:
 - master
 
-pool:
-  name: Default
-  vmImage: W10B8KF1N3
 
 steps:
 - task: Maven@3
